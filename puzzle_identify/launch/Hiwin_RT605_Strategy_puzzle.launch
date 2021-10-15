@@ -1,0 +1,5 @@
+<launch>
+
+    <node name="ros_strategy" pkg="puzzle_identify" type="Hiwin_RT605_Strategy_puzzle.py" output="screen"/>
+
+</launch>
